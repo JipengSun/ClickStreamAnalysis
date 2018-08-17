@@ -1,0 +1,24 @@
+小组整体的各类点击量时间变化 线图
+小组成员的各类点击时间变化 精确到每天 每周 以及四周总体 线图
+在小组的各类点击量里 每个小组成员点击量的占比 饼图或者柱状图
+学期开始时间：7月25号 第一个作业提交时间： 第四周（8月18号）
+
+week1:7.23-7.29 
+
+week2:7.30-8.05
+
+week3:8.06-8.12
+
+week4:8.13-8.19
+
+P01所有组project session时间 每周二8am-10am；materials lab时间 每周三 10am－12am
+P02所有组project session时间 每周二10am-12am；materials lab时间 每周五 2pm－4pm
+P03所有组project session时间 每周二12am-2pm；materials lab时间 每周三 4pm－6pm
+P04所有组project session时间 每周二2pm-4pm；materials lab时间 每周三 8am－10am
+P05所有组project session时间 每周三8am-10am；materials lab时间 每周四 4pm－6pm
+P06所有组project session时间 每周一2pm-4pm；materials lab时间 每周五 2pm－4pm
+
+
+ 
+
+
