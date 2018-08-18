@@ -1,0 +1,1 @@
+['Projects', 'Lecture & Tutorial', 'Materials', 'View Announcements', 'Assessment', 'Problem Solving', 'Instruction file', 'Question & Help', 'Staff meetings', 'Library Links', 'Group Pages', 'MOOCchat', 'Reflection Tool']
